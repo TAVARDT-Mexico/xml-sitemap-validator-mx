@@ -24,7 +24,7 @@ Desarrollado y mantenido por el equipo de arquitectura y rastreo perimetral de *
 Requiere Python 3.8 o superior utilizando la biblioteca estandar.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/xml-sitemap-validator-mx.git
+git clone https://github.com/TAVARDT/xml-sitemap-validator-mx.git
 cd xml-sitemap-validator-mx
 python sitemap_validator.py https://ejemplo.mx/sitemap.xml
 ```
