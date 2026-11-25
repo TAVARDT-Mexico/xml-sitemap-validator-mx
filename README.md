@@ -6,8 +6,6 @@
 
 Auditoria de mapas de sitio XML para optimizar el rastreo de motores de busqueda y garantizar una indexacion precisa de contenidos.
 
-Desarrollado y mantenido por el equipo de arquitectura y rastreo perimetral de **TAVARDT**.
-
 ***
 
 ## Capacidades de Validacion de Sitemaps XML
@@ -38,15 +36,6 @@ python sitemap_validator.py https://ejemplo.mx/sitemap.xml -json
 
 ***
 
-## Herramienta en Linea
-
-Para validaciones recurrentes y pruebas de arquitectura web:
-
-* **Validador de Sitemap XML Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Consultoria en Rastreabilidad Web
 
 Para proyectos de optimizacion de sitemaps a gran escala bajo Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para proyectos de optimizacion de sitemaps a gran escala bajo Estandares Web y B
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
