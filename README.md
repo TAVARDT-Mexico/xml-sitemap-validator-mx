@@ -2,6 +2,7 @@
 
 [![Validador Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-sitemap-xml/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de mapas de sitio XML para optimizar el rastreo de motores de busqueda y garantizar una indexacion precisa de contenidos.
 
@@ -57,6 +58,11 @@ Para proyectos de optimizacion de sitemaps a gran escala bajo Estandares Web y B
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
 
 ***
 
